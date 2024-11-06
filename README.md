@@ -35,3 +35,10 @@ Data ini dapat digunakan untuk berbagai keperluan, seperti:
 ## Sumber Data
 
 Data putusan diperoleh dari situs web resmi Pengadilan Negeri Lumajang pada direktori **PIDANA KHUSUS** dengan klasifikasi **Narkotika dan Psikotropika**.
+
+## Dibuat Oleh
+
+Rosydan Amru Tamam - 202110370311249 - Informatika UMM
+
+Bayu Puspito Aji - 202110370311291 - Informatika UMM
+
