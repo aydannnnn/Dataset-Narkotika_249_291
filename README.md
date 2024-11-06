@@ -6,12 +6,12 @@ Repositori ini berisi dataset putusan terkait kasus Narkotika dan Psikotropika d
 
 Dataset ini mencakup 50 putusan dari Pengadilan Negeri Lumajang yang berkaitan dengan kasus-kasus Narkotika dan Psikotropika. Setiap putusan diambil dari dokumen PDF asli yang dipublikasikan di situs resmi Pengadilan Negeri Lumajang.
 
-- **Dataset**: `narkotika.xlsx`
+- **Dataset**: `Narkotika.xlsx`
 - **File pendukung**: 50 file PDF terkait putusan perkara
 
 ### Struktur Dataset
 
-File `narkotika.xlsx` berisi informasi yang diekstraksi dari setiap putusan, termasuk detail berikut:
+File `Narkotika.xlsx` berisi informasi yang diekstraksi dari setiap putusan, termasuk detail berikut:
 
 | Kolom           | Deskripsi                                             |
 |-----------------|-------------------------------------------------------|
@@ -22,7 +22,7 @@ File `narkotika.xlsx` berisi informasi yang diekstraksi dari setiap putusan, ter
 
 ### File PDF
 
-Setiap putusan juga dilengkapi dengan dokumen PDF yang memuat detail lengkap dari setiap perkara. File-file ini tersedia dalam folder **/pdf/** dan diberi nama sesuai dengan nomor perkara dari masing-masing kasus.
+Setiap putusan juga dilengkapi dengan dokumen PDF yang memuat detail lengkap dari setiap perkara. File-file ini tersedia dalam folder **/pdf/** dan diberi nama sesuai dengan nomor putusan dari masing-masing kasus.
 
 ## Penggunaan Data
 
